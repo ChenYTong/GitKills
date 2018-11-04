@@ -2,3 +2,4 @@ for x in range(10) if x % 2 == 0:
   print(x)
 mum = 20
 akk = 30
+wqq = 40
